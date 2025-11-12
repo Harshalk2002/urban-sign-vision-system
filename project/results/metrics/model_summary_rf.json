@@ -1,0 +1,6 @@
+{
+    "model": "Random Forest (HOG)",
+    "val_acc": 0.87,
+    "test_acc": 0.86,
+    "notes": "HOG features + 200 trees RF classifier."
+}

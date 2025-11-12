@@ -1,0 +1,51 @@
+{
+  "split": "val",
+  "tag": "svm",
+  "acc": 0.8897058823529411,
+  "infer_sec": 0.007145881652832031,
+  "report": {
+    "information--pedestrians-crossing--g1": {
+      "precision": 0.8947368421052632,
+      "recall": 0.8095238095238095,
+      "f1-score": 0.85,
+      "support": 21.0
+    },
+    "other-sign": {
+      "precision": 0.8939393939393939,
+      "recall": 0.8805970149253731,
+      "f1-score": 0.8872180451127819,
+      "support": 67.0
+    },
+    "regulatory--no-entry--g1": {
+      "precision": 0.7777777777777778,
+      "recall": 0.875,
+      "f1-score": 0.8235294117647058,
+      "support": 16.0
+    },
+    "regulatory--stop--g1": {
+      "precision": 0.9375,
+      "recall": 1.0,
+      "f1-score": 0.967741935483871,
+      "support": 15.0
+    },
+    "regulatory--yield--g1": {
+      "precision": 0.9411764705882353,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.9411764705882353,
+      "support": 17.0
+    },
+    "accuracy": 0.8897058823529411,
+    "macro avg": {
+      "precision": 0.8890260968821341,
+      "recall": 0.9012594590074835,
+      "f1-score": 0.8939331725899189,
+      "support": 136.0
+    },
+    "weighted avg": {
+      "precision": 0.8911055700190762,
+      "recall": 0.8897058823529411,
+      "f1-score": 0.8896044753165422,
+      "support": 136.0
+    }
+  }
+}

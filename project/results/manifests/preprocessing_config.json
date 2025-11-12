@@ -1,0 +1,10 @@
+{
+  "clahe_clip_limit": 2.0,
+  "clahe_tile_grid_size": [
+    8,
+    8
+  ],
+  "bilateral_d": 9,
+  "bilateral_sigma_color": 75,
+  "bilateral_sigma_space": 75
+}

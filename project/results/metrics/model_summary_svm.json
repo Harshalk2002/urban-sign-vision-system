@@ -1,0 +1,6 @@
+{
+    "model": "SVM (HOG)",
+    "val_acc": 0.89,
+    "test_acc": 0.88,
+    "notes": "HOG + Linear SVM classifier trained on 5-class balanced subset."
+}

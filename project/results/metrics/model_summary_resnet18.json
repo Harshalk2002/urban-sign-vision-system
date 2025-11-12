@@ -1,0 +1,6 @@
+{
+    "model": "ResNet-18 (Transfer Learning)",
+    "val_acc": 0.551,
+    "test_acc": 0.333,
+    "notes": "Pretrained on ImageNet, fine-tuned final FC layer on 5-class subset."
+}

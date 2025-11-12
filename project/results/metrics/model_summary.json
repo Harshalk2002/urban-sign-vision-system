@@ -1,0 +1,12 @@
+{
+  "SVM": {
+    "train_acc": 1.0,
+    "val_acc": 0.875,
+    "test_acc": 0.8833333333333333
+  },
+  "RF": {
+    "train_acc": 1.0,
+    "val_acc": 0.875,
+    "test_acc": 0.883
+  }
+}

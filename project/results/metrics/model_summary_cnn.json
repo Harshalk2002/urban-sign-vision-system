@@ -1,0 +1,6 @@
+{
+    "model": "CNN (Deep Learning)",
+    "val_acc": 0.5,
+    "test_acc": 0.3,
+    "notes": "Custom 3-conv CNN trained on 5-class subset; limited data led to underfitting."
+}
