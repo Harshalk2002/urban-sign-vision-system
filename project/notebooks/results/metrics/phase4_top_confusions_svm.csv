@@ -1,0 +1,8 @@
+true,pred,count
+information--pedestrians-crossing--g1,other-sign,3
+regulatory--stop--g1,other-sign,3
+other-sign,information--pedestrians-crossing--g1,2
+regulatory--no-entry--g1,other-sign,2
+other-sign,regulatory--no-entry--g1,1
+other-sign,regulatory--stop--g1,1
+regulatory--yield--g1,other-sign,1
